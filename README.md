@@ -117,7 +117,7 @@ MVVM（Model View ViewModel）类似MVP，只是用ViewModel来做中间人（Me
 
 
 
-![MVVM](https://github.com/ApesTalk/iOSArchitectures/blob/master/Images/MIPER.png)
+![VIPER](https://github.com/ApesTalk/iOSArchitectures/blob/master/Images/VIPER.png)
 
 
 
