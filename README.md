@@ -21,7 +21,7 @@ Help understand some mainstream app architectures.
 
 
 
-![TraditionalMVC](https://github.com/https://github.com/ApesTalk/iOSArchitectures/Images/TraditionalMVC.png)
+![TraditionalMVC](https://github.com/ApesTalk/iOSArchitectures/blob/master/Images/TraditionalMVC.png)
 
 
 
@@ -59,7 +59,7 @@ MVC设计模式是Cocoa应用程序最基本最重要的设计模式，很多系
 
 
 
-![CocoaMVC](https://github.com/https://github.com/ApesTalk/iOSArchitectures/Images/CocoaMVC.png)
+![CocoaMVC](https://github.com/ApesTalk/iOSArchitectures/blob/master/Images/CocoaMVC.png)
 
 
 
@@ -98,7 +98,7 @@ iOS的MVP架构，是基于协议（Protocol）来实现的，协议要求了中
 
 
 
-![MVP](https://github.com/https://github.com/ApesTalk/iOSArchitectures/Images/MVP.png)
+![MVP](https://github.com/ApesTalk/iOSArchitectures/blob/master/Images/MVP.png)
 
 
 
@@ -110,12 +110,14 @@ iOS的MVP架构，是基于协议（Protocol）来实现的，协议要求了中
 MVVM（Model View ViewModel）类似MVP，只是用ViewModel来做中间人（Mediator）。MVVM把ViewController当作View，没有了View和Model的紧密耦合。在iOS中，ViewModel基本是代表你的View和View状态的独立的UIKit。ViewModel激发Model的改变并根据改变的Model更新自身，因为View和ViewModel之间有个绑定关系，所以View会相应地更新。
 
 
+![MVVM](https://github.com/ApesTalk/iOSArchitectures/blob/master/Images/MVVM.png)
+
 
 # VIPER
 
 
 
-![MVVM](https://github.com/https://github.com/ApesTalk/iOSArchitectures/Images/MVVM.png)
+![MVVM](https://github.com/ApesTalk/iOSArchitectures/blob/master/Images/MIPER.png)
 
 
 
